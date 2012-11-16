@@ -1,4 +1,6 @@
 SilverStripeExtension
 =====================
 
-SilverStripe integration extension for Behat
+Project moved to:
+https://github.com/silverstripe-labs/silverstripe-behat-extension/
+
